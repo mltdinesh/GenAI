@@ -1,0 +1,6 @@
+langchain>=1.0,<2
+langchain-ollama>=1.0,<2
+langchain-chroma>=1.0,<2
+langchain-text-splitters>=1.0,<2
+fastapi>=0.115
+uvicorn>=0.30
